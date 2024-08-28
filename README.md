@@ -4,4 +4,5 @@ My all other projects in the Resume are linked with their github repositories wi
 
 Thank you for considering my application,
 Karnati Paranjai
-Final year B-tech ECE student at IIIT ALLAHABAD
+Final year B-tech ECE student
+IIIT ALLAHABAD
