@@ -1,6 +1,6 @@
-Hello, this repository is empty because I cannot share any details about the project since the research paper is yet to be published.
+"This repository is empty because I cannot share any details about the project since the research paper has not yet been published.
 
-My all other projects in the Resume are linked with their github repositories with proper details about the project.
+All my other projects in the resume are linked to their GitHub repositories with proper project files."
 
 Thank you for considering my application,
 Karnati Paranjai
